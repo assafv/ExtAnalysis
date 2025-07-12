@@ -3,3 +3,4 @@ python-whois
 requests
 maxminddb
 Flask-WTF
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
